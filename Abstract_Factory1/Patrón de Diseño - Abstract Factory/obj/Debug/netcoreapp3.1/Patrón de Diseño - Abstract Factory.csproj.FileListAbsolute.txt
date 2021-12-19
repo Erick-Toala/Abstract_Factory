@@ -1,0 +1,14 @@
+C:\Users\Xervicompu\source\repos\Abstract_Factory1\Patrón de Diseño - Abstract Factory\bin\Debug\netcoreapp3.1\Patrón de Diseño - Abstract Factory.exe
+C:\Users\Xervicompu\source\repos\Abstract_Factory1\Patrón de Diseño - Abstract Factory\bin\Debug\netcoreapp3.1\Patrón de Diseño - Abstract Factory.deps.json
+C:\Users\Xervicompu\source\repos\Abstract_Factory1\Patrón de Diseño - Abstract Factory\bin\Debug\netcoreapp3.1\Patrón de Diseño - Abstract Factory.runtimeconfig.json
+C:\Users\Xervicompu\source\repos\Abstract_Factory1\Patrón de Diseño - Abstract Factory\bin\Debug\netcoreapp3.1\Patrón de Diseño - Abstract Factory.runtimeconfig.dev.json
+C:\Users\Xervicompu\source\repos\Abstract_Factory1\Patrón de Diseño - Abstract Factory\bin\Debug\netcoreapp3.1\Patrón de Diseño - Abstract Factory.dll
+C:\Users\Xervicompu\source\repos\Abstract_Factory1\Patrón de Diseño - Abstract Factory\bin\Debug\netcoreapp3.1\Patrón de Diseño - Abstract Factory.pdb
+C:\Users\Xervicompu\source\repos\Abstract_Factory1\Patrón de Diseño - Abstract Factory\obj\Debug\netcoreapp3.1\Patrón de Diseño - Abstract Factory.csproj.AssemblyReference.cache
+C:\Users\Xervicompu\source\repos\Abstract_Factory1\Patrón de Diseño - Abstract Factory\obj\Debug\netcoreapp3.1\Patrón de Diseño - Abstract Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xervicompu\source\repos\Abstract_Factory1\Patrón de Diseño - Abstract Factory\obj\Debug\netcoreapp3.1\Patrón de Diseño - Abstract Factory.AssemblyInfoInputs.cache
+C:\Users\Xervicompu\source\repos\Abstract_Factory1\Patrón de Diseño - Abstract Factory\obj\Debug\netcoreapp3.1\Patrón de Diseño - Abstract Factory.AssemblyInfo.cs
+C:\Users\Xervicompu\source\repos\Abstract_Factory1\Patrón de Diseño - Abstract Factory\obj\Debug\netcoreapp3.1\Patrón de Diseño - Abstract Factory.csproj.CoreCompileInputs.cache
+C:\Users\Xervicompu\source\repos\Abstract_Factory1\Patrón de Diseño - Abstract Factory\obj\Debug\netcoreapp3.1\Patrón de Diseño - Abstract Factory.dll
+C:\Users\Xervicompu\source\repos\Abstract_Factory1\Patrón de Diseño - Abstract Factory\obj\Debug\netcoreapp3.1\Patrón de Diseño - Abstract Factory.pdb
+C:\Users\Xervicompu\source\repos\Abstract_Factory1\Patrón de Diseño - Abstract Factory\obj\Debug\netcoreapp3.1\Patrón de Diseño - Abstract Factory.genruntimeconfig.cache

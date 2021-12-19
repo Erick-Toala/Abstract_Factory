@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Patrón_de_Diseño___Abstract_Factory.fabrica">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAQAAA=</HashCode>
+      <FileName>fabrica.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patrón_de_Diseño___Abstract_Factory.fabricaSamsung">
+    <Position X="6.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fabricaSamsung.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patrón_de_Diseño___Abstract_Factory.fabricaSony">
+    <Position X="9.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>fabricaSony.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patrón_de_Diseño___Abstract_Factory.televisor">
+    <Position X="2.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>televisor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patrón_de_Diseño___Abstract_Factory.televisorSamsung">
+    <Position X="1" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>televisorSamsung.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patrón_de_Diseño___Abstract_Factory.televisorSony">
+    <Position X="4.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>televisorSony.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patrón_de_Diseño___Abstract_Factory.celular">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>celular.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patrón_de_Diseño___Abstract_Factory.celularSamsung">
+    <Position X="1" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>celularSamsung.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Patrón_de_Diseño___Abstract_Factory.celularSony">
+    <Position X="4.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>celularSony.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
